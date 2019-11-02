@@ -6,7 +6,7 @@ end
 
 def my_hash
   my_hash = {
-    key 
+    key => "value"
   }
 end
 
